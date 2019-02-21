@@ -1,0 +1,19 @@
+header {
+    border: 5px solid lightblue;
+    background: lightsalmon;
+}
+
+footer {
+    border: 5px solid lightblue;
+    background: lightgoldenrodyellow;
+}
+
+nav {
+    border: 5px solid lightblue;
+    background: lightcoral;
+}
+
+article {
+    border: 5px solid lightblue;
+    background: lightgray;
+}
